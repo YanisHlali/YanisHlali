@@ -6,9 +6,9 @@
 
 [<img align="right" width="390" alt="🦇 github-readme-streak-stats" src="http://github-readme-streak-stats.herokuapp.com?user=YanisHlali&theme=tokyonight&hide_border=true&dates=777777&background=FF000000">](#)
 
+<br clear="both" />
 
-
-## 🦸‍♂️ Featured Project: Comics Tracker
+## Comics Tracker
 
 > Full-stack Marvel comics platform with Next.js frontend, Spring Boot API, and Node.js extraction service
 
