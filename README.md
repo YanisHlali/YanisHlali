@@ -1,4 +1,3 @@
-Always grinding — sometimes solo, sometimes with the crew.  
 _I code daily — shipping tools, bots, and ideas that grow in silence. Not for the streak, but for the vision._
 
 _Thanks for watching from the shadows — it means a lot!_
