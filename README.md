@@ -2,6 +2,10 @@
 
 [<img align="right" width="390" alt="🦇 wakatime" src="https://raw.githubusercontent.com/YanisHlali/YanisHlali/main/metrics.plugin.wakatime.svg">](#)
 
+[<img align="right" width="390" alt="🦇 isometric calendar" src="https://raw.githubusercontent.com/YanisHlali/YanisHlali/main/metrics.isocalendar.svg">](#)
+
+[<img align="right" width="390" alt="🦇 languages" src="https://raw.githubusercontent.com/YanisHlali/YanisHlali/main/metrics.languages.svg">](#)
+
 [<img align="right" width="390" alt="🦇 github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=YanisHlali&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
 
 [<img align="right" width="390" alt="🦇 github-readme-streak-stats" src="http://github-readme-streak-stats.herokuapp.com?user=YanisHlali&theme=tokyonight&hide_border=true&dates=777777&background=FF000000">](#)
