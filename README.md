@@ -2,7 +2,7 @@
 
 [<img align="right" width="390" alt="🦇 github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=YanisHlali&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
 
-[<img align="right" width="390" alt="🦇 github-readme-streak-stats" src="http://github-readme-streak-stats.herokuapp.com?user=YanisHlali&theme=tokyonight&hide_border=true&dates=777777&background=FF000000">](#)
+[<img align="right" width="390" alt="🦇 github-readme-streak-stats" src="http://github-readme-streak-stats.herokuapp.com?user=YanisHlali&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
 
 <br clear="both" />
 
