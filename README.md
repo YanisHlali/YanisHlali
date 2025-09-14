@@ -6,7 +6,7 @@
 ## Comics Tracker
 > Full-stack Marvel comics platform with Next.js frontend, Spring Boot API, and Node.js extraction service
 
-**Architecture:** 3-tier microservices • **Stack:** TypeScript, Java 17, React • **Features:** Comic reader, chronological navigation, responsive UI
+**Architecture:** Frontend interface, Spring Boot API, CBR/CBZ reader • **Stack:** TypeScript, Java 17, React • **Features:** Comic reader, chronological navigation, responsive UI
 ```
 🎯 Frontend (Next.js)  |  ⚡ API (Spring Boot)  |  📖 CBR/CBZ Service (Node.js)
 ```
@@ -17,7 +17,7 @@
 ## Every Frame In Order
 > Automated frame extraction and Twitter bot for episodic content with real-time web interface
 
-**Architecture:** Firebase backend, Google Drive storage, Twitter automation • **Stack:** Next.js, TypeScript, Puppeteer • **Features:** Frame viewer, multilingual UI, statistics dashboard
+**Architecture:** Frame extraction, Firestore indexing, Twitter automation • **Stack:** Next.js, TypeScript, Puppeteer • **Features:** Frame viewer, multilingual UI, statistics dashboard
 ```
 🤖 Twitter Bot  |  📊 Web Interface
 ```
