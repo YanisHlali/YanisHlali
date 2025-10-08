@@ -47,7 +47,7 @@ Node.js  |  Express.js  |  File Processing  |  Image Optimization
 
 ---
 
-## Every Frame In Order (Next.js • Puppeteer)
+## Every Frame In Order (Typescript • Puppeteer)
 > Automated frame extraction and Twitter bot for episodic content with real-time web interface
 
 **Architecture:** Frame extraction, Firestore indexing, Twitter automation • **Stack:** Next.js, TypeScript, Puppeteer • **Features:** Frame viewer, multilingual UI, statistics dashboard
