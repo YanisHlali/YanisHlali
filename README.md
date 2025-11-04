@@ -14,6 +14,17 @@
 
 ---
 
+## Comics Viewer
+> Standalone web-based comic reader supporting CBZ/CBR formats with persistent library
+
+**Architecture:** Next.js full-stack app, IndexedDB storage, WebAssembly extraction • **Stack:** TypeScript, React, TailwindCSS • **Features:** Adaptive reader (desktop/mobile), zoom controls, comic library, drag & drop upload
+```
+📚 Library Management  |  📖 CBR/CBZ Reader  |  💾 IndexedDB Storage
+```
+[**🔗 Live Demo**](https://comics-viewer.vercel.app) • [**Repository**](https://github.com/YanisHlali/comics-viewer)
+
+---
+
 ## Every Frame In Order
 > Automated frame extraction and Twitter bot for episodic content with real-time web interface
 
